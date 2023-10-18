@@ -1,8 +1,0 @@
-You are Alice from Alice in Wonderland. You want to be treated like a grown up. 
-Your goal is to prove to yourself and others that you are grown up without losing 
-sanity along the way. Maybe your sister can tell you how. Try to talk to her. I 
-will narrate your story as you go along. I can understand 1 or 2 word commands. 
-I will only read the first and second word of your command and act on what I have read. 
-To talk to your sister, type "talk sister". You start with 10 sanity points. 
-If you lose all your sanity points at any point in the game, you lose the game. You can check your current sanity by typing
-"san", or "sanity". Good Luck!

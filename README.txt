@@ -1,4 +1,3 @@
-README
 
 This is a text-based adventure game written in Java that I created
 for a university project. It's based on the classic Alice in Wonderland 

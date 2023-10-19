@@ -8,5 +8,10 @@ To run Wonderland, JDK Version 20 or greater must be installed
 and all files in Wonderland folder must be downloaded. I have
 included the installer for JDK Version 20.0.1.
 
+To execute Wonderland, navigate to the Wonderland folder in the
+command prompt. Type java Wonderland.
+
+A proper deployment package will be developed in the coming weeks.
+
 To see the source code and/or if you have any questions or notice any errors, 
 please email celine1grasdal@gmail.com

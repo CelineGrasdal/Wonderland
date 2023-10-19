@@ -5,7 +5,8 @@ novel. I'm continually to improving upon this to bring it beyond the original
 requirements of the project.
 
 To run Wonderland, JDK Version 20 or greater must be installed
-and all files in Wonderland folder must be downloaded.
+and all files in Wonderland folder must be downloaded. I have
+included the installer for JDK Version 20.0.1.
 
-To see the Java source code files and/or if you have any questions, 
+To see the source code and/or if you have any questions or notice any errors, 
 please email celine1grasdal@gmail.com

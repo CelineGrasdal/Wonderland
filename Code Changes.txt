@@ -1,3 +1,10 @@
 Code Changes
 
-10.18.2023 Compile instructions in all Java classes updated 
+10.18.2023 
+
+Compile instructions in all Java classes updated
+
+10.19.2023 
+
+Created and added Help Menu
+Changed text to properly display new lines

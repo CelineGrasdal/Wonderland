@@ -1,0 +1,17 @@
+_____________________________________________________
+
+HELP MENU
+_____________________________________________________
+
+1. To walk, type the direction you want to go
+   or type "Go " and the direction you want to go.
+   Ex. "w", "west", or "go west" to go west.
+
+2. "i" and "inventory" shows your inventory
+3. "talk" and a character allows you to talk to a talk to a character
+4. "describe" and a word allows you to examine
+5. "san" or "sanity" allows you to see your remaining sanity points
+
+The rest of the commands you must figure out!
+
+_____________________________________________________
